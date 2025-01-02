@@ -1,0 +1,301 @@
+restaurant_id,restaurant_name,city,ratings,total_reviews
+1,Chaat Bazaar,Hyderabad,3.8,493
+2,Kebab Palace,Delhi,4.1,81
+3,Biryani House,Pune,4.3,199
+4,Tandoori Flames,Jaipur,4.3,1400
+5,Biryani House,Surat,3.6,1677
+6,Biryani House,Jaipur,4.7,1292
+7,Paneer Paradise,Ahmedabad,3.9,941
+8,Paneer Paradise,Mumbai,3.7,496
+9,Samosa Corner,Surat,3.8,1936
+10,Biryani House,Bengaluru,4.3,319
+11,Dosa Delight,Surat,3.7,1379
+12,Paneer Paradise,Surat,3.5,165
+13,Samosa Corner,Jaipur,4.9,1626
+14,Samosa Corner,Delhi,4.5,1310
+15,Paneer Paradise,Delhi,3.6,705
+16,Tandoori Flames,Mumbai,4.8,759
+17,Paneer Paradise,Bengaluru,4.4,181
+18,Curry Point,Jaipur,4.5,101
+19,Kebab Palace,Delhi,3.5,238
+20,Curry Point,Delhi,4.6,830
+21,Biryani House,Bengaluru,4.7,205
+22,Dosa Delight,Hyderabad,4.9,339
+23,Biryani House,Ahmedabad,4.6,821
+24,Samosa Corner,Hyderabad,4.3,112
+25,Curry Point,Mumbai,4.1,902
+26,Masala Express,Kolkata,4.2,356
+27,Tandoori Flames,Kolkata,4.6,1589
+28,Paneer Paradise,Pune,3.9,1424
+29,Biryani House,Jaipur,3.7,1278
+30,Paneer Paradise,Ahmedabad,3.7,611
+31,Curry Point,Delhi,3.8,545
+32,Curry Point,Jaipur,3.7,880
+33,Paneer Paradise,Chennai,3.6,1063
+34,Curry Point,Pune,3.8,172
+35,Pav Bhaji Hub,Ahmedabad,4.2,412
+36,Chaat Bazaar,Chennai,4.6,1974
+37,Dosa Delight,Pune,4.1,1247
+38,Paneer Paradise,Hyderabad,4.9,142
+39,Chaat Bazaar,Ahmedabad,4.4,1419
+40,Samosa Corner,Kolkata,4.8,1993
+41,Biryani House,Delhi,3.8,1225
+42,Paneer Paradise,Ahmedabad,4.7,975
+43,Biryani House,Mumbai,4.6,1192
+44,Chaat Bazaar,Pune,4.3,1257
+45,Paneer Paradise,Hyderabad,4.9,569
+46,Biryani House,Pune,5.0,1523
+47,Samosa Corner,Delhi,3.7,654
+48,Pav Bhaji Hub,Hyderabad,4.8,1959
+49,Biryani House,Kolkata,3.8,485
+50,Pav Bhaji Hub,Ahmedabad,3.5,515
+51,Samosa Corner,Pune,4.3,1021
+52,Pav Bhaji Hub,Delhi,4.6,775
+53,Chaat Bazaar,Bengaluru,4.7,1740
+54,Dosa Delight,Kolkata,4.5,1785
+55,Masala Express,Pune,4.0,808
+56,Pav Bhaji Hub,Bengaluru,3.5,76
+57,Curry Point,Ahmedabad,4.0,940
+58,Paneer Paradise,Chennai,4.2,1837
+59,Pav Bhaji Hub,Bengaluru,3.7,1970
+60,Tandoori Flames,Jaipur,5.0,1134
+61,Samosa Corner,Hyderabad,4.9,898
+62,Biryani House,Jaipur,4.4,1362
+63,Curry Point,Ahmedabad,4.0,1660
+64,Curry Point,Mumbai,3.8,619
+65,Biryani House,Pune,4.1,369
+66,Paneer Paradise,Kolkata,4.8,252
+67,Masala Express,Mumbai,3.6,129
+68,Tandoori Flames,Chennai,4.8,66
+69,Samosa Corner,Hyderabad,4.6,170
+70,Chaat Bazaar,Bengaluru,4.2,591
+71,Chaat Bazaar,Bengaluru,4.7,1148
+72,Paneer Paradise,Jaipur,4.2,1767
+73,Chaat Bazaar,Pune,3.8,485
+74,Dosa Delight,Pune,4.0,272
+75,Masala Express,Ahmedabad,3.6,1185
+76,Masala Express,Hyderabad,3.7,1245
+77,Tandoori Flames,Chennai,3.7,853
+78,Masala Express,Kolkata,3.7,216
+79,Dosa Delight,Hyderabad,5.0,897
+80,Dosa Delight,Kolkata,3.7,724
+81,Biryani House,Hyderabad,5.0,1327
+82,Kebab Palace,Surat,4.3,460
+83,Curry Point,Kolkata,4.5,861
+84,Kebab Palace,Bengaluru,3.9,540
+85,Tandoori Flames,Jaipur,4.9,1201
+86,Masala Express,Kolkata,4.7,709
+87,Biryani House,Delhi,3.7,397
+88,Masala Express,Mumbai,4.6,1958
+89,Paneer Paradise,Surat,4.6,1706
+90,Samosa Corner,Bengaluru,3.8,1019
+91,Pav Bhaji Hub,Mumbai,3.8,878
+92,Tandoori Flames,Mumbai,4.1,1677
+93,Pav Bhaji Hub,Bengaluru,3.8,759
+94,Masala Express,Mumbai,4.6,1831
+95,Paneer Paradise,Mumbai,3.9,1375
+96,Samosa Corner,Jaipur,4.1,1219
+97,Chaat Bazaar,Hyderabad,3.8,1968
+98,Paneer Paradise,Surat,3.6,333
+99,Paneer Paradise,Mumbai,4.6,1852
+100,Paneer Paradise,Pune,4.0,788
+101,Chaat Bazaar,Kolkata,4.6,1096
+102,Biryani House,Pune,4.4,561
+103,Chaat Bazaar,Bengaluru,3.6,1291
+104,Biryani House,Kolkata,4.4,451
+105,Dosa Delight,Mumbai,4.0,895
+106,Pav Bhaji Hub,Pune,4.9,1816
+107,Masala Express,Delhi,3.6,487
+108,Curry Point,Kolkata,4.2,1800
+109,Pav Bhaji Hub,Kolkata,4.7,644
+110,Kebab Palace,Surat,3.8,1324
+111,Samosa Corner,Kolkata,4.0,285
+112,Masala Express,Hyderabad,3.9,432
+113,Tandoori Flames,Chennai,4.4,1805
+114,Masala Express,Bengaluru,3.5,1986
+115,Pav Bhaji Hub,Chennai,4.2,1279
+116,Samosa Corner,Chennai,3.9,510
+117,Biryani House,Kolkata,4.9,428
+118,Masala Express,Chennai,4.1,1927
+119,Curry Point,Bengaluru,4.0,599
+120,Dosa Delight,Hyderabad,4.9,1124
+121,Curry Point,Chennai,5.0,607
+122,Pav Bhaji Hub,Mumbai,3.9,1824
+123,Paneer Paradise,Bengaluru,4.1,1207
+124,Curry Point,Delhi,3.6,614
+125,Kebab Palace,Ahmedabad,4.8,794
+126,Tandoori Flames,Delhi,3.8,1257
+127,Dosa Delight,Kolkata,4.9,190
+128,Tandoori Flames,Surat,3.5,1970
+129,Dosa Delight,Kolkata,4.6,1394
+130,Paneer Paradise,Ahmedabad,4.2,663
+131,Kebab Palace,Chennai,3.6,467
+132,Biryani House,Pune,4.7,1352
+133,Kebab Palace,Pune,4.9,1801
+134,Pav Bhaji Hub,Kolkata,4.7,1002
+135,Biryani House,Kolkata,4.4,1239
+136,Pav Bhaji Hub,Bengaluru,4.1,368
+137,Kebab Palace,Jaipur,4.5,1810
+138,Biryani House,Chennai,4.1,349
+139,Masala Express,Chennai,4.1,971
+140,Samosa Corner,Hyderabad,4.8,74
+141,Dosa Delight,Mumbai,4.4,249
+142,Pav Bhaji Hub,Hyderabad,3.9,1103
+143,Samosa Corner,Pune,3.5,1224
+144,Chaat Bazaar,Bengaluru,4.3,207
+145,Kebab Palace,Bengaluru,4.1,324
+146,Dosa Delight,Bengaluru,3.6,1139
+147,Chaat Bazaar,Mumbai,4.8,283
+148,Chaat Bazaar,Jaipur,3.9,1519
+149,Pav Bhaji Hub,Bengaluru,3.5,1386
+150,Samosa Corner,Delhi,5.0,1705
+151,Pav Bhaji Hub,Ahmedabad,4.4,1057
+152,Paneer Paradise,Surat,4.3,1449
+153,Samosa Corner,Surat,4.8,1814
+154,Curry Point,Hyderabad,4.7,1857
+155,Pav Bhaji Hub,Mumbai,3.6,1739
+156,Masala Express,Kolkata,4.0,226
+157,Dosa Delight,Pune,4.1,1562
+158,Kebab Palace,Ahmedabad,4.3,680
+159,Pav Bhaji Hub,Surat,4.7,1996
+160,Tandoori Flames,Ahmedabad,4.1,850
+161,Biryani House,Jaipur,3.9,1007
+162,Biryani House,Pune,3.6,1583
+163,Pav Bhaji Hub,Mumbai,3.8,1954
+164,Curry Point,Pune,3.9,178
+165,Paneer Paradise,Bengaluru,4.3,540
+166,Samosa Corner,Delhi,4.5,744
+167,Samosa Corner,Pune,3.8,1731
+168,Paneer Paradise,Delhi,3.7,1930
+169,Biryani House,Bengaluru,4.2,1658
+170,Paneer Paradise,Hyderabad,5.0,1605
+171,Tandoori Flames,Surat,4.5,1822
+172,Masala Express,Mumbai,4.8,1578
+173,Kebab Palace,Chennai,3.7,1729
+174,Biryani House,Mumbai,4.5,1085
+175,Curry Point,Delhi,4.8,293
+176,Pav Bhaji Hub,Kolkata,4.0,751
+177,Chaat Bazaar,Jaipur,3.5,1298
+178,Tandoori Flames,Mumbai,4.4,1297
+179,Pav Bhaji Hub,Kolkata,4.2,912
+180,Biryani House,Hyderabad,4.1,297
+181,Dosa Delight,Kolkata,3.8,1837
+182,Kebab Palace,Pune,4.9,1725
+183,Pav Bhaji Hub,Kolkata,4.8,168
+184,Masala Express,Pune,3.7,1095
+185,Chaat Bazaar,Surat,5.0,1170
+186,Paneer Paradise,Pune,5.0,126
+187,Chaat Bazaar,Jaipur,3.9,250
+188,Curry Point,Ahmedabad,4.9,1279
+189,Paneer Paradise,Hyderabad,3.7,909
+190,Tandoori Flames,Delhi,4.6,1375
+191,Biryani House,Ahmedabad,4.0,1673
+192,Biryani House,Kolkata,4.4,740
+193,Tandoori Flames,Chennai,4.1,568
+194,Samosa Corner,Bengaluru,4.7,1328
+195,Chaat Bazaar,Kolkata,3.6,1899
+196,Kebab Palace,Delhi,4.6,209
+197,Chaat Bazaar,Pune,4.5,801
+198,Masala Express,Pune,4.8,1969
+199,Curry Point,Delhi,3.5,1544
+200,Masala Express,Mumbai,4.9,590
+201,Biryani House,Chennai,4.9,504
+202,Kebab Palace,Ahmedabad,3.8,191
+203,Dosa Delight,Surat,4.0,1728
+204,Chaat Bazaar,Pune,4.1,803
+205,Biryani House,Kolkata,4.3,394
+206,Curry Point,Pune,4.4,254
+207,Biryani House,Pune,4.7,1770
+208,Paneer Paradise,Delhi,3.6,1566
+209,Kebab Palace,Ahmedabad,4.2,1638
+210,Curry Point,Surat,3.6,1708
+211,Kebab Palace,Jaipur,4.2,1346
+212,Chaat Bazaar,Hyderabad,4.0,1117
+213,Dosa Delight,Surat,3.7,200
+214,Biryani House,Surat,3.8,1415
+215,Tandoori Flames,Jaipur,4.5,1113
+216,Chaat Bazaar,Hyderabad,4.4,560
+217,Dosa Delight,Chennai,3.8,1249
+218,Biryani House,Chennai,3.7,621
+219,Biryani House,Chennai,3.5,1093
+220,Masala Express,Pune,4.7,476
+221,Chaat Bazaar,Mumbai,3.8,474
+222,Kebab Palace,Kolkata,4.0,887
+223,Biryani House,Mumbai,4.5,602
+224,Dosa Delight,Bengaluru,5.0,260
+225,Kebab Palace,Jaipur,3.7,109
+226,Biryani House,Jaipur,4.7,620
+227,Curry Point,Ahmedabad,4.2,1759
+228,Biryani House,Chennai,3.9,527
+229,Biryani House,Hyderabad,4.7,966
+230,Paneer Paradise,Surat,4.4,1353
+231,Chaat Bazaar,Bengaluru,4.3,1344
+232,Biryani House,Jaipur,4.6,1814
+233,Tandoori Flames,Bengaluru,4.5,1578
+234,Kebab Palace,Hyderabad,4.6,1123
+235,Tandoori Flames,Mumbai,4.5,667
+236,Dosa Delight,Surat,3.9,1899
+237,Pav Bhaji Hub,Chennai,5.0,469
+238,Curry Point,Mumbai,4.1,1995
+239,Dosa Delight,Hyderabad,4.6,772
+240,Dosa Delight,Bengaluru,4.8,1045
+241,Biryani House,Chennai,3.6,1711
+242,Tandoori Flames,Surat,4.5,1609
+243,Pav Bhaji Hub,Delhi,5.0,751
+244,Pav Bhaji Hub,Mumbai,4.5,882
+245,Tandoori Flames,Chennai,3.6,1335
+246,Tandoori Flames,Hyderabad,4.2,269
+247,Kebab Palace,Bengaluru,4.6,1046
+248,Masala Express,Kolkata,4.6,1638
+249,Pav Bhaji Hub,Kolkata,4.2,1231
+250,Paneer Paradise,Chennai,4.7,1564
+251,Masala Express,Hyderabad,4.8,627
+252,Dosa Delight,Pune,5.0,797
+253,Kebab Palace,Surat,4.6,759
+254,Chaat Bazaar,Kolkata,4.6,1724
+255,Kebab Palace,Bengaluru,4.2,1579
+256,Chaat Bazaar,Bengaluru,3.8,1683
+257,Pav Bhaji Hub,Delhi,4.0,894
+258,Biryani House,Bengaluru,3.8,650
+259,Kebab Palace,Mumbai,4.6,1522
+260,Chaat Bazaar,Jaipur,4.1,1912
+261,Biryani House,Hyderabad,4.0,1831
+262,Chaat Bazaar,Kolkata,3.8,1491
+263,Masala Express,Pune,4.5,994
+264,Kebab Palace,Bengaluru,3.5,1294
+265,Masala Express,Jaipur,4.2,1828
+266,Tandoori Flames,Chennai,4.0,1520
+267,Masala Express,Ahmedabad,4.0,1935
+268,Dosa Delight,Ahmedabad,4.4,92
+269,Chaat Bazaar,Mumbai,4.3,530
+270,Chaat Bazaar,Pune,5.0,356
+271,Chaat Bazaar,Jaipur,4.3,686
+272,Masala Express,Chennai,4.9,1401
+273,Tandoori Flames,Hyderabad,4.5,752
+274,Paneer Paradise,Bengaluru,4.6,148
+275,Masala Express,Delhi,4.6,1677
+276,Kebab Palace,Kolkata,4.1,1772
+277,Dosa Delight,Jaipur,4.9,622
+278,Pav Bhaji Hub,Ahmedabad,4.1,1642
+279,Pav Bhaji Hub,Delhi,4.2,996
+280,Chaat Bazaar,Pune,4.0,654
+281,Biryani House,Delhi,3.9,1767
+282,Curry Point,Delhi,4.5,1627
+283,Samosa Corner,Bengaluru,4.3,602
+284,Samosa Corner,Ahmedabad,4.9,1165
+285,Tandoori Flames,Delhi,4.4,1185
+286,Curry Point,Delhi,3.6,1823
+287,Paneer Paradise,Delhi,3.8,413
+288,Samosa Corner,Pune,4.7,1769
+289,Curry Point,Bengaluru,3.9,819
+290,Kebab Palace,Jaipur,4.8,1347
+291,Curry Point,Delhi,4.2,1790
+292,Dosa Delight,Jaipur,3.7,1330
+293,Tandoori Flames,Pune,3.8,554
+294,Biryani House,Jaipur,4.0,1899
+295,Curry Point,Mumbai,4.0,1322
+296,Pav Bhaji Hub,Jaipur,4.0,1497
+297,Dosa Delight,Delhi,3.7,1549
+298,Tandoori Flames,Ahmedabad,4.5,942
+299,Pav Bhaji Hub,Delhi,4.2,908
+300,Pav Bhaji Hub,Bengaluru,3.6,147
