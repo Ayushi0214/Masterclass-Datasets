@@ -1,0 +1,99 @@
+Column1,product_id,product_category,product_type,product_detail,unit_price
+0,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,252
+1,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,260.4
+2,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,378
+3,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,168
+5,77,Bakery,Scone,Oatmeal Scone,252
+7,28,Coffee,Gourmet brewed coffee,Gourmet brewed coffee,168
+8,39,Coffee,Barista Espresso,Latte Rg,357
+9,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,294
+10,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,214.2
+11,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,294
+12,51,Tea,Brewed Black tea,Earl Grey Lg,252
+14,87,Coffee,Barista Espresso,Ouro Brasileiro shot,252
+15,47,Tea,Brewed Green tea,Serenity Green Tea Lg,252
+16,79,Bakery,Scone,Jumbo Savory Scone,315
+17,42,Tea,Brewed herbal tea,Lemon Grass Rg,210
+19,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,399
+22,69,Bakery,Biscotti,Hazelnut Biscotti,273
+24,40,Coffee,Barista Espresso,Cappuccino,315
+25,43,Tea,Brewed herbal tea,Lemon Grass Lg,252
+26,76,Bakery,Biscotti,Chocolate Chip Biscotti,294
+27,45,Tea,Brewed herbal tea,Peppermint Lg,252
+28,71,Bakery,Pastry,Chocolate Croissant,315
+30,38,Coffee,Barista Espresso,Latte,315
+31,26,Coffee,Organic brewed coffee,Brazilian Rg,252
+32,27,Coffee,Organic brewed coffee,Brazilian Lg,294
+33,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,210
+34,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,210
+36,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,336
+40,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,252
+41,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,315
+42,78,Bakery,Scone,Scottish Cream Scone ,378
+45,44,Tea,Brewed herbal tea,Peppermint Rg,210
+47,48,Tea,Brewed Black tea,English Breakfast Rg,210
+48,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,210
+49,46,Tea,Brewed Green tea,Serenity Green Tea Rg,210
+53,25,Coffee,Organic brewed coffee,Brazilian Sm,184.8
+57,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,205.8
+58,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,315
+59,74,Bakery,Biscotti,Ginger Biscotti,294
+60,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,252
+61,41,Coffee,Barista Espresso,Cappuccino Lg,357
+67,37,Coffee,Barista Espresso,Espresso shot,252
+71,50,Tea,Brewed Black tea,Earl Grey Rg,210
+74,72,Bakery,Scone,Ginger Scone,273
+75,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,260.4
+94,70,Bakery,Scone,Cranberry Scone,273
+102,73,Bakery,Pastry,Almond Croissant,315
+107,75,Bakery,Pastry,Croissant,294
+122,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,184.8
+125,49,Tea,Brewed Black tea,English Breakfast Lg,252
+140,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,210
+143,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,252
+3254,64,Flavours,Regular syrup,Hazelnut syrup,67.2
+3263,12,Loose Tea,Herbal tea,Peppermint,751.8
+3291,63,Flavours,Regular syrup,Carmel syrup,67.2
+3293,6,Coffee beans,Gourmet Beans,Ethiopia,1764
+3296,9,Coffee beans,Organic Beans,Organic Decaf Blend,2352
+3318,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,67.2
+3352,84,Flavours,Regular syrup,Chocolate syrup,67.2
+3440,19,Packaged Chocolate,Drinking Chocolate,Dark chocolate,537.6
+3447,7,Coffee beans,Premium Beans,Jamacian Coffee River,1659
+3448,9,Coffee beans,Organic Beans,Organic Decaf Blend,1008
+3451,1,Coffee beans,Organic Beans,Brazilian - Organic,1512
+3481,17,Loose Tea,Chai tea,Morning Sunrise Chai,798
+3519,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,840
+3554,4,Coffee beans,Espresso Beans,Primo Espresso Roast,1717.8
+3880,15,Loose Tea,Green tea,Serenity Green Tea,777
+3896,16,Loose Tea,Chai tea,Traditional Blend Chai,751.8
+3916,9,Coffee beans,Organic Beans,Organic Decaf Blend,1890
+3968,3,Coffee beans,Espresso Beans,Espresso Roast,1239
+4022,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,638.4
+4033,83,Branded,Housewares,I Need My Bean! Latte cup,1176
+4199,18,Loose Tea,Chai tea,Spicy Eye Opener Chai,919.8
+4257,21,Packaged Chocolate,Drinking Chocolate,Chili Mayan,1119.72
+4288,13,Loose Tea,Black tea,English Breakfast,751.8
+4294,11,Loose Tea,Herbal tea,Lemon Grass,751.8
+4328,5,Coffee beans,Gourmet Beans,Columbian Medium Roast,1260
+4417,75,Bakery,Pastry,Croissant,367.92
+4447,70,Bakery,Scone,Cranberry Scone,341.04
+4457,69,Bakery,Biscotti,Hazelnut Biscotti,341.04
+4494,2,Coffee beans,House blend Beans,Our Old Time Diner Blend,1512
+4541,76,Bakery,Biscotti,Chocolate Chip Biscotti,367.92
+4598,81,Branded,Clothing,I Need My Bean! T-shirt,2352
+4612,14,Loose Tea,Black tea,Earl Grey,751.8
+4623,78,Bakery,Scone,Scottish Cream Scone ,472.92
+4634,79,Bakery,Scone,Jumbo Savory Scone,393.96
+4639,71,Bakery,Pastry,Chocolate Croissant,393.96
+4723,72,Bakery,Scone,Ginger Scone,341.04
+4792,74,Bakery,Biscotti,Ginger Biscotti,367.92
+5182,8,Coffee beans,Premium Beans,Civet Cat,3780
+5327,82,Branded,Housewares,I Need My Bean! Diner mug,1008
+7711,83,Branded,Housewares,I Need My Bean! Latte cup,1932
+8242,87,Coffee,Barista Espresso,Ouro Brasileiro shot,176.4
+11187,72,Bakery,Scone,Ginger Scone,222.6
+11668,82,Branded,Housewares,I Need My Bean! Diner mug,1932
+16516,9,Coffee beans,Organic Beans,Organic Decaf Blend,1932
+42970,81,Branded,Clothing,I Need My Bean! T-shirt,1932
+88852,73,Bakery,Pastry,Almond Croissant,393.96
