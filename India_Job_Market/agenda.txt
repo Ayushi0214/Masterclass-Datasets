@@ -1,0 +1,30 @@
+Job Market Trends:
+What are the most in-demand job roles? 
+Which companies are posting the most job openings? 
+What is the distribution of job types?
+
+Salary and Experience Analysis:
+What is the distribution of salary ranges across different job roles?
+What is the average experience required for different job types? 
+Which salary range has the highest number of job postings? 
+
+Location Insights:
+Which cities have the highest number of job opportunities?
+What are the most common job types in each location?
+
+Skills and Education Analysis:
+Which skills are most frequently required in job postings? 
+What is the correlation between educational qualifications and salary ranges?
+Which education level is most demanded for different job roles?
+
+Hiring Timeline:
+How does the number of job postings vary by month? (Line chart of postings over time)
+What is the average duration between job posting and application deadline? (Histogram)
+
+Application Trends:
+Which job portals are attracting the highest number of applicants?
+Which job titles receive the most applications? 
+
+Company Analysis:
+What is the distribution of job postings by company size? 
+Which companies offer the most remote work opportunities? 
