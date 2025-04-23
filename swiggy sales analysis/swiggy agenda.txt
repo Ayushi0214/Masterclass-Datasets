@@ -1,0 +1,51 @@
+📄 Page 1: Order Trends & Revenue Overview
+Purpose: Analyze business performance and order patterns over time.
+
+Questions:
+What is the monthly trend of orders over the past year?
+
+What is the average order value over time?
+
+How do order statuses (Cancelled vs Successful) trend over time?
+
+What is the total revenue generated from each city?
+
+What is the cancellation rate per city?
+
+📄 Page 2: Delivery Partner Performance
+Purpose: Measure the effectiveness of delivery partners and delays.
+
+Questions:
+What is the average delivery time by partner?
+
+How many orders are handled per partner?
+
+Which partners consistently deliver late vs on time (compare actual vs expected delivery time)?
+
+What is the average delivery time across cities?
+
+📄 Page 3: Restaurant Performance Insights
+Purpose: Compare restaurants based on ratings, reviews, and order volume.
+
+Questions:
+Which are the top-rated restaurants and how many reviews do they have?
+
+What is the average order value per restaurant?
+
+Which restaurants receive the most orders?
+
+Is there a correlation between restaurant ratings and total revenue?
+
+What are the top dishes ordered from each restaurant?
+
+📄 Page 4: Customer Insights & Loyalty
+Purpose: Understand customer behavior, preferences, and segmentation.
+
+Questions:
+Who are the top repeat customers (most orders)?
+
+What are the top cities by number of unique customers?
+
+What is the average spend per customer?
+
+What are the common delivery address patterns (cluster by city or locality)?
