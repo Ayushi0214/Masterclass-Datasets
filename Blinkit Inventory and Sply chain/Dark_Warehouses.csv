@@ -1,0 +1,101 @@
+StoreID,StoreName,Location,Pincode,StoreCapacity
+2000,Zepto Hub 1,"Andheri West, Mumbai",400053,1134
+2001,Zepto Hub 2,"Borivali, Mumbai",400092,1225
+2002,Zepto Hub 3,"Powai, Mumbai",400076,979
+2003,Zepto Hub 4,"Koramangala, Bangalore",560095,1217
+2004,Zepto Hub 5,"Indiranagar, Bangalore",560038,1126
+2005,Zepto Hub 6,"Whitefield, Bangalore",560066,1269
+2006,Zepto Hub 7,"Gachibowli, Hyderabad",500032,1229
+2007,Zepto Hub 8,"Banjara Hills, Hyderabad",500034,868
+2008,Zepto Hub 9,"Madhapur, Hyderabad",500081,1386
+2009,Zepto Hub 10,"T. Nagar, Chennai",600017,1373
+2010,Zepto Hub 11,"Velachery, Chennai",600042,933
+2011,Zepto Hub 12,"Anna Nagar, Chennai",600040,1396
+2012,Zepto Hub 13,"Salt Lake, Kolkata",700091,1061
+2013,Zepto Hub 14,"Rajarhat, Kolkata",700135,897
+2014,Zepto Hub 15,"Park Street, Kolkata",700016,847
+2015,Zepto Hub 16,"Hinjewadi, Pune",411057,1361
+2016,Zepto Hub 17,"Kothrud, Pune",411038,1271
+2017,Zepto Hub 18,"Viman Nagar, Pune",411014,1406
+2018,Zepto Hub 19,"Vaishali Nagar, Jaipur",302021,1451
+2019,Zepto Hub 20,"Malviya Nagar, Jaipur",302017,1481
+2020,Zepto Hub 21,"Andheri West, Mumbai",400053,1477
+2021,Zepto Hub 22,"Borivali, Mumbai",400092,1104
+2022,Zepto Hub 23,"Powai, Mumbai",400076,1054
+2023,Zepto Hub 24,"Koramangala, Bangalore",560095,1458
+2024,Zepto Hub 25,"Indiranagar, Bangalore",560038,1101
+2025,Zepto Hub 26,"Whitefield, Bangalore",560066,1428
+2026,Zepto Hub 27,"Gachibowli, Hyderabad",500032,1372
+2027,Zepto Hub 28,"Banjara Hills, Hyderabad",500034,1493
+2028,Zepto Hub 29,"Madhapur, Hyderabad",500081,1070
+2029,Zepto Hub 30,"T. Nagar, Chennai",600017,1468
+2030,Zepto Hub 31,"Velachery, Chennai",600042,1412
+2031,Zepto Hub 32,"Anna Nagar, Chennai",600040,838
+2032,Zepto Hub 33,"Salt Lake, Kolkata",700091,969
+2033,Zepto Hub 34,"Rajarhat, Kolkata",700135,1323
+2034,Zepto Hub 35,"Park Street, Kolkata",700016,1162
+2035,Zepto Hub 36,"Hinjewadi, Pune",411057,1290
+2036,Zepto Hub 37,"Kothrud, Pune",411038,1070
+2037,Zepto Hub 38,"Viman Nagar, Pune",411014,1111
+2038,Zepto Hub 39,"Vaishali Nagar, Jaipur",302021,1027
+2039,Zepto Hub 40,"Malviya Nagar, Jaipur",302017,1375
+2040,Zepto Hub 41,"Andheri West, Mumbai",400053,1328
+2041,Zepto Hub 42,"Borivali, Mumbai",400092,838
+2042,Zepto Hub 43,"Powai, Mumbai",400076,1358
+2043,Zepto Hub 44,"Koramangala, Bangalore",560095,826
+2044,Zepto Hub 45,"Indiranagar, Bangalore",560038,968
+2045,Zepto Hub 46,"Whitefield, Bangalore",560066,897
+2046,Zepto Hub 47,"Gachibowli, Hyderabad",500032,996
+2047,Zepto Hub 48,"Banjara Hills, Hyderabad",500034,1097
+2048,Zepto Hub 49,"Madhapur, Hyderabad",500081,1112
+2049,Zepto Hub 50,"T. Nagar, Chennai",600017,1216
+2050,Zepto Hub 51,"Velachery, Chennai",600042,900
+2051,Zepto Hub 52,"Anna Nagar, Chennai",600040,1373
+2052,Zepto Hub 53,"Salt Lake, Kolkata",700091,915
+2053,Zepto Hub 54,"Rajarhat, Kolkata",700135,918
+2054,Zepto Hub 55,"Park Street, Kolkata",700016,1393
+2055,Zepto Hub 56,"Hinjewadi, Pune",411057,1250
+2056,Zepto Hub 57,"Kothrud, Pune",411038,1480
+2057,Zepto Hub 58,"Viman Nagar, Pune",411014,1440
+2058,Zepto Hub 59,"Vaishali Nagar, Jaipur",302021,865
+2059,Zepto Hub 60,"Malviya Nagar, Jaipur",302017,1173
+2060,Zepto Hub 61,"Andheri West, Mumbai",400053,1310
+2061,Zepto Hub 62,"Borivali, Mumbai",400092,834
+2062,Zepto Hub 63,"Powai, Mumbai",400076,1370
+2063,Zepto Hub 64,"Koramangala, Bangalore",560095,938
+2064,Zepto Hub 65,"Indiranagar, Bangalore",560038,1104
+2065,Zepto Hub 66,"Whitefield, Bangalore",560066,1283
+2066,Zepto Hub 67,"Gachibowli, Hyderabad",500032,982
+2067,Zepto Hub 68,"Banjara Hills, Hyderabad",500034,1261
+2068,Zepto Hub 69,"Madhapur, Hyderabad",500081,1316
+2069,Zepto Hub 70,"T. Nagar, Chennai",600017,1160
+2070,Zepto Hub 71,"Velachery, Chennai",600042,1290
+2071,Zepto Hub 72,"Anna Nagar, Chennai",600040,998
+2072,Zepto Hub 73,"Salt Lake, Kolkata",700091,1284
+2073,Zepto Hub 74,"Rajarhat, Kolkata",700135,1064
+2074,Zepto Hub 75,"Park Street, Kolkata",700016,1460
+2075,Zepto Hub 76,"Hinjewadi, Pune",411057,1155
+2076,Zepto Hub 77,"Kothrud, Pune",411038,1299
+2077,Zepto Hub 78,"Viman Nagar, Pune",411014,1377
+2078,Zepto Hub 79,"Vaishali Nagar, Jaipur",302021,919
+2079,Zepto Hub 80,"Malviya Nagar, Jaipur",302017,1050
+2080,Zepto Hub 81,"Andheri West, Mumbai",400053,1490
+2081,Zepto Hub 82,"Borivali, Mumbai",400092,884
+2082,Zepto Hub 83,"Powai, Mumbai",400076,1426
+2083,Zepto Hub 84,"Koramangala, Bangalore",560095,1368
+2084,Zepto Hub 85,"Indiranagar, Bangalore",560038,1264
+2085,Zepto Hub 86,"Whitefield, Bangalore",560066,1408
+2086,Zepto Hub 87,"Gachibowli, Hyderabad",500032,1002
+2087,Zepto Hub 88,"Banjara Hills, Hyderabad",500034,900
+2088,Zepto Hub 89,"Madhapur, Hyderabad",500081,1234
+2089,Zepto Hub 90,"T. Nagar, Chennai",600017,1206
+2090,Zepto Hub 91,"Velachery, Chennai",600042,976
+2091,Zepto Hub 92,"Anna Nagar, Chennai",600040,1243
+2092,Zepto Hub 93,"Salt Lake, Kolkata",700091,1297
+2093,Zepto Hub 94,"Rajarhat, Kolkata",700135,1054
+2094,Zepto Hub 95,"Park Street, Kolkata",700016,1080
+2095,Zepto Hub 96,"Hinjewadi, Pune",411057,1028
+2096,Zepto Hub 97,"Kothrud, Pune",411038,936
+2097,Zepto Hub 98,"Viman Nagar, Pune",411014,820
+2098,Zepto Hub 99,"Vaishali Nagar, Jaipur",302021,1378
+2099,Zepto Hub 100,"Malviya Nagar, Jaipur",302017,1426

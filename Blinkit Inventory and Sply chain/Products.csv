@@ -1,0 +1,52 @@
+ProductID,ProductName,Category,Brand,PricePerUnit,StockQuantity
+1000,Amul Taaza Milk 1L,Dairy,Amul,72,564
+1001,Amul Butter 500g,Dairy,Amul,260,409
+1002,Mother Dairy Curd 400g,Dairy,Mother Dairy,40,485
+1003,Aashirvaad Atta 5kg,Grocery,Aashirvaad,255,236
+1004,Tata Salt 1kg,Grocery,Tata,28,539
+1005,India Gate Basmati Rice 1kg,Grocery,India Gate,180,226
+1006,Maggi Noodles 70g,Snacks,Maggi,14,936
+1007,Lays Classic Salted 52g,Snacks,Lays,20,951
+1008,Britannia Good Day Cashew 600g,Snacks,Britannia,150,262
+1009,Farm Fresh Tomatoes 500g,Vegetables,Farm Fresh,35,622
+1010,Golden Apples 1kg,Fruits,Farm Fresh,180,352
+1011,Bananas (12 pcs),Fruits,Farm Fresh,60,886
+1012,Saffola Gold Oil 1L,Grocery,Saffola,180,307
+1013,Kellogg's Corn Flakes 500g,Grocery,Kellogg's,210,519
+1014,Dettol Handwash 750ml,Personal Care,Dettol,145,990
+1015,Colgate Toothpaste 200g,Personal Care,Colgate,115,286
+1016,Nescafe Classic Coffee 100g,Beverages,Nescafe,150,149
+1017,Tata Tea Premium 500g,Beverages,Tata,240,999
+1018,Surf Excel Matic 1kg,Grocery,Surf Excel,190,367
+1019,Dabur Honey 500g,Grocery,Dabur,199,198
+1020,Cadbury Dairy Milk Silk 150g,Snacks,Cadbury,160,860
+1021,Patanjali Ghee 1L,Grocery,Patanjali,599,583
+1022,Fortune Sunflower Oil 1L,Grocery,Fortune,160,402
+1023,Haldiram's Bhujia 400g,Snacks,Haldiram's,135,275
+1024,Bournvita 500g,Beverages,Cadbury,225,719
+1025,Dove Soap 125g,Personal Care,Dove,45,759
+1026,Gillette Mach3 Razor,Personal Care,Gillette,299,847
+1027,Real Mixed Fruit Juice 1L,Beverages,Real,99,286
+1028,Catch Black Pepper 100g,Grocery,Catch,150,325
+1029,Horlicks Classic Malt 1kg,Beverages,Horlicks,385,879
+1030,Johnson's Baby Powder 400g,Personal Care,Johnson's,175,953
+1031,Himalaya Face Wash 100ml,Personal Care,Himalaya,130,822
+1032,Whisper Ultra Pads (30 pcs),Personal Care,Whisper,320,561
+1033,Oreo Chocolate Biscuits 300g,Snacks,Oreo,85,898
+1034,Lizol Floor Cleaner 1L,Grocery,Lizol,210,427
+1035,Sprite 2L,Beverages,Sprite,90,925
+1036,Frooti Mango Drink 1L,Beverages,Frooti,65,946
+1037,Dabur Chyawanprash 1kg,Health,Dabur,350,612
+1038,Coca-Cola 2L,Beverages,Coca-Cola,90,789
+1039,Eveready AA Batteries (4 pcs),Electronics,Eveready,110,100
+1040,Sensodyne Toothpaste 100g,Personal Care,Sensodyne,160,566
+1041,Nestle Everyday Milk Powder 500g,Dairy,Nestle,275,977
+1042,Kissan Mixed Fruit Jam 500g,Grocery,Kissan,180,819
+1043,Good Day Butter Cookies 600g,Snacks,Britannia,140,113
+1044,Brooke Bond Red Label 500g,Beverages,Brooke Bond,170,447
+1045,Parle-G Biscuits 800g,Snacks,Parle,80,146
+1046,Sprite 2L,Beverages,Sprite,90,338
+1047,Head & Shoulders Shampoo 650ml,Personal Care,Head & Shoulders,385,635
+1048,Real Orange Juice 1L,Beverages,Real,110,159
+1049,Gillette Shaving Foam 200ml,Personal Care,Gillette,240,237
+1050,Dabur Red Toothpaste 200g,Personal Care,Dabur,99,446
