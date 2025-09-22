@@ -1,0 +1,8 @@
+DepartmentID,DepartmentName,LocationCity,LocationState,Country,HeadEmployeeID
+1,Human Resources,Jaipur,Rajasthan,India,1099
+2,Finance,Delhi,Delhi,India,1074
+3,Information Technology,Bengaluru,Karnataka,India,1004
+4,Marketing,Mumbai,Maharashtra,India,1063
+5,Sales,Gurugram,Haryana,India,1052
+6,Data Analytics,Pune,Maharashtra,India,1047
+7,Operations,Hyderabad,Telangana,India,1028

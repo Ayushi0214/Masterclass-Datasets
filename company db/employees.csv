@@ -1,0 +1,121 @@
+EmployeeID,FirstName,LastName,Email,Phone,DepartmentID,JobTitle,EmploymentType,WorkMode,City,State,Country,JoiningDate,ExitDate,Active,Age,ExperienceYears,SalaryINR,SalaryCurrency,PerformanceRating,BonusPercent,ManagerEmployeeID
+1001,Neha,Sharma,neha.sharma@example.com,-2225,6,Analytics Engineer,Full-time,Hybrid,Chennai,Tamil Nadu,India,30-09-2020,,TRUE,24,2,110860,INR,3,8,1010
+1002,Yash,Ghosh,yash.ghosh@example.com,-7106,1,HR Executive,Full-time,Hybrid,Jaipur,Rajasthan,India,25-03-2020,,TRUE,40,16,36111,INR,4,12,1098
+1003,Amit,Rastogi,amit.rastogi@example.com,-3793,7,Logistics Coordinator,Full-time,Remote,Hyderabad,Telangana,India,28-09-2022,,TRUE,30,9,40311,INR,1,0,1109
+1004,Harsh,Ghosh,harsh.ghosh@example.com,-5645,3,IT Manager,Full-time,Hybrid,Bengaluru,Karnataka,India,25-02-2023,,TRUE,27,7,209150,INR,3,8,
+1005,Rohit,Jain,rohit.jain@example.com,-8115,2,Senior Analyst,Full-time,Hybrid,Delhi,Delhi,India,23-11-2018,,TRUE,28,6,81394,INR,3,8,1066
+1006,Isha,Mukherjee,isha.mukherjee@example.com,-6546,6,Analytics Engineer,Full-time,Hybrid,Pune,Maharashtra,India,31-10-2024,,TRUE,29,9,133897,INR,2,5,1110
+1007,Aarohi,Joshi,aarohi.joshi@example.com,-5396,6,Analytics Engineer,Full-time,Hybrid,Pune,Maharashtra,India,18-08-2018,,TRUE,32,10,154974,INR,2,5,1060
+1008,Siddharth,Kulkarni,siddharth.kulkarni@example.com,-6115,6,Analytics Engineer,Full-time,On-site,Pune,Maharashtra,India,20-05-2020,,TRUE,26,4,119692,INR,4,12,1059
+1009,Parth,Chopra,parth.chopra@example.com,-3731,6,Analytics Engineer,Full-time,Hybrid,Pune,Maharashtra,India,21-10-2022,,TRUE,29,5,121534,INR,3,8,1006
+1010,Neha,Kapoor,neha.kapoor@example.com,-6666,6,Data Scientist,Full-time,On-site,Pune,Maharashtra,India,19-08-2025,,TRUE,28,7,142185,INR,3,8,1058
+1011,Amit,Jain,amit.jain@example.com,-4859,6,Senior Data Analyst,Full-time,Remote,Pune,Maharashtra,India,24-08-2025,,TRUE,35,15,92568,INR,2,5,1009
+1012,Rahul,Bhatia,rahul.bhatia@example.com,-5160,7,Operations Manager,Full-time,Remote,Hyderabad,Telangana,India,11-09-2023,,TRUE,34,13,128952,INR,2,5,1035
+1013,Nidhi,Suresh,nidhi.suresh@example.com,-3375,1,HR Generalist,Full-time,On-site,Noida,Uttar Pradesh,India,20-08-2021,,TRUE,34,10,46837,INR,2,5,1073
+1014,Karan,Rastogi,karan.rastogi@example.com,-5801,5,National Sales Manager,Full-time,Hybrid,Gurugram,Haryana,India,10-06-2019,,TRUE,31,10,202992,INR,1,0,1052
+1015,Manish,Mukherjee,manish.mukherjee@example.com,-3201,3,DevOps Engineer,Full-time,Hybrid,Bengaluru,Karnataka,India,14-07-2025,,TRUE,30,7,112361,INR,3,8,1104
+1016,Mahima,Chaudhary,mahima.chaudhary@example.com,-8012,2,CFO Office Lead,Full-time,Hybrid,Chennai,Tamil Nadu,India,21-06-2020,08-08-2024,FALSE,28,4,200342,INR,5,18,1074
+1017,Isha,Jain,isha.jain@example.com,-9441,4,Performance Marketer,Contract,On-site,Ahmedabad,Gujarat,India,18-01-2024,,TRUE,32,11,87890,INR,4,12,1069
+1018,Tanya,Reddy,tanya.reddy@example.com,-7919,4,Content Strategist,Full-time,Hybrid,Mumbai,Maharashtra,India,28-03-2023,,TRUE,35,12,56157,INR,3,8,1100
+1019,Vikram,Joshi,vikram.joshi@example.com,-4012,2,CFO Office Lead,Full-time,On-site,Delhi,Delhi,India,06-01-2024,,TRUE,31,10,190080,INR,3,8,1074
+1020,Aarohi,Singh,aarohi.singh@example.com,-8774,1,HR Generalist,Full-time,Hybrid,Jaipur,Rajasthan,India,02-03-2018,,TRUE,31,7,38748,INR,2,5,1073
+1021,Arjun,Patel,arjun.patel@example.com,-5265,1,HR Executive,Full-time,Hybrid,Jaipur,Rajasthan,India,22-12-2020,,TRUE,29,6,26495,INR,3,8,1027
+1022,Sneha,Desai,sneha.desai@example.com,-3089,6,Data Analyst,Full-time,On-site,Pune,Maharashtra,India,07-09-2018,,TRUE,21,0,76736,INR,3,8,1047
+1023,Anita,Saxena,anita.saxena@example.com,-3191,2,Senior Analyst,Full-time,On-site,Delhi,Delhi,India,03-09-2024,02-03-2025,FALSE,35,15,83949,INR,4,12,1016
+1024,Mahima,Desai,mahima.desai@example.com,-6804,5,Regional Sales Manager,Full-time,Hybrid,Gurugram,Haryana,India,04-12-2020,,TRUE,33,11,130545,INR,4,12,1052
+1025,Karan,Sharma,karan.sharma@example.com,-7646,4,Content Strategist,Full-time,Hybrid,Mumbai,Maharashtra,India,25-04-2024,,TRUE,24,0,51589,INR,4,12,1048
+1026,Divya,Reddy,divya.reddy@example.com,-4069,3,Software Engineer,Full-time,Hybrid,Bengaluru,Karnataka,India,30-11-2022,,TRUE,26,5,61734,INR,5,18,1089
+1027,Raj,Chopra,raj.chopra@example.com,-6790,1,HR Executive,Full-time,Hybrid,Jaipur,Rajasthan,India,16-03-2024,,TRUE,39,19,33155,INR,2,5,1086
+1028,Rahul,Kulkarni,rahul.kulkarni@example.com,-6604,7,Head of Operations,Full-time,On-site,Noida,Uttar Pradesh,India,14-01-2019,,TRUE,31,11,196371,INR,4,12,
+1029,Aarohi,Mukherjee,aarohi.mukherjee@example.com,-9099,4,Brand Head,Full-time,On-site,Kolkata,West Bengal,India,09-02-2018,11-12-2019,FALSE,32,8,167158,INR,4,12,1105
+1030,Meera,Kulkarni,meera.kulkarni@example.com,-9220,7,Operations Manager,Full-time,Remote,Hyderabad,Telangana,India,05-01-2022,,TRUE,31,11,102874,INR,3,8,1071
+1031,Simran,Suresh,simran.suresh@example.com,-4753,2,Senior Analyst,Full-time,Hybrid,Delhi,Delhi,India,27-12-2019,,TRUE,30,9,75592,INR,3,8,1078
+1032,Vikram,Patel,vikram.patel@example.com,-5030,7,Logistics Coordinator,Full-time,On-site,Hyderabad,Telangana,India,12-04-2023,,TRUE,23,3,59736,INR,3,8,1113
+1033,Isha,Saxena,isha.saxena@example.com,-6987,1,HR Manager,Full-time,Hybrid,Kolkata,West Bengal,India,09-12-2021,,TRUE,28,6,61218,INR,3,8,1099
+1034,Rohit,Singh,rohit.singh@example.com,-6045,5,VP Sales,Contract,On-site,Noida,Uttar Pradesh,India,16-11-2021,,TRUE,26,3,223436,INR,3,8,1052
+1035,Amit,Bhatia,amit.bhatia@example.com,-7245,7,Operations Manager,Full-time,On-site,Hyderabad,Telangana,India,14-09-2025,,TRUE,25,1,129790,INR,3,8,1118
+1036,Neha,Pillai,neha.pillai@example.com,-8975,3,Software Engineer,Contract,On-site,Bengaluru,Karnataka,India,20-06-2021,,TRUE,34,10,78589,INR,1,0,1092
+1037,Ankit,Jain,ankit.jain@example.com,-8911,6,Head of Analytics,Intern,On-site,Pune,Maharashtra,India,26-11-2024,,TRUE,27,6,200301,INR,4,12,1047
+1038,Abhishek,Khan,abhishek.khan@example.com,-10665,3,Software Engineer,Contract,Remote,Bengaluru,Karnataka,India,15-12-2022,,TRUE,33,10,86641,INR,3,8,1083
+1039,Naina,Goyal,naina.goyal@example.com,-3291,1,HR Intern,Full-time,Remote,Jaipur,Rajasthan,India,18-07-2025,,TRUE,35,14,19014,INR,4,12,1027
+1040,Siddharth,Malhotra,siddharth.malhotra@example.com,-4730,6,Data Scientist,Full-time,Hybrid,Pune,Maharashtra,India,18-07-2023,,TRUE,30,7,184748,INR,3,8,1060
+1041,Nidhi,Agarwal,nidhi.agarwal@example.com,-7557,1,HR Intern,Full-time,On-site,Jaipur,Rajasthan,India,17-10-2020,,TRUE,36,12,17950,INR,4,12,1013
+1042,Aditya,Ghosh,aditya.ghosh@example.com,-6101,7,Logistics Coordinator,Full-time,Hybrid,Hyderabad,Telangana,India,14-10-2022,,TRUE,34,10,48403,INR,3,8,1094
+1043,Isha,Rastogi,isha.rastogi@example.com,-7432,7,Logistics Coordinator,Contract,Hybrid,Hyderabad,Telangana,India,08-06-2023,,TRUE,31,7,52532,INR,4,12,1032
+1044,Parth,Verma,parth.verma@example.com,-7563,2,Financial Analyst,Full-time,Hybrid,Delhi,Delhi,India,05-08-2020,,TRUE,21,0,60979,INR,3,8,1119
+1045,Mohit,Mehta,mohit.mehta@example.com,-2289,2,Senior Analyst,Full-time,On-site,Delhi,Delhi,India,15-05-2022,,TRUE,29,6,76966,INR,4,12,1066
+1046,Riya,Rastogi,riya.rastogi@example.com,-9201,4,Content Strategist,Full-time,On-site,Mumbai,Maharashtra,India,14-01-2024,,TRUE,27,4,48308,INR,1,0,1017
+1047,Ankit,Goyal,ankit.goyal@example.com,-2699,6,Head of Analytics,Full-time,Hybrid,Noida,Uttar Pradesh,India,08-11-2019,,TRUE,23,0,246175,INR,4,12,
+1048,Raj,Saxena,raj.saxena@example.com,-8954,4,Performance Marketer,Full-time,Hybrid,Mumbai,Maharashtra,India,25-07-2018,,TRUE,34,13,107893,INR,2,5,1091
+1049,Mohit,Chopra,mohit.chopra@example.com,-2999,7,Logistics Coordinator,Full-time,On-site,Hyderabad,Telangana,India,11-04-2023,13-12-2024,FALSE,32,12,44435,INR,2,5,1081
+1050,Manish,Shetty,manish.shetty@example.com,-6376,1,HR Generalist,Full-time,On-site,Jaipur,Rajasthan,India,17-09-2019,,TRUE,33,9,39452,INR,1,0,1073
+1051,Arjun,Ghosh,arjun.ghosh@example.com,-8500,5,Regional Sales Manager,Full-time,Remote,Gurugram,Haryana,India,02-11-2019,,TRUE,39,19,113289,INR,5,18,1111
+1052,Manish,Verma,manish.verma@example.com,-10782,5,VP Sales,Contract,Hybrid,Gurugram,Haryana,India,22-02-2019,,TRUE,32,11,269115,INR,3,8,
+1053,Meera,Verma,meera.verma@example.com,-5196,5,Regional Sales Manager,Full-time,Hybrid,Gurugram,Haryana,India,21-02-2018,,TRUE,35,13,94000,INR,2,5,1014
+1054,Nidhi,Khan,nidhi.khan@example.com,-4131,3,Software Engineer,Full-time,Hybrid,Bengaluru,Karnataka,India,14-01-2024,,TRUE,32,8,80491,INR,4,12,1089
+1055,Aditya,Joshi,aditya.joshi@example.com,-9858,7,Operations Associate,Full-time,Hybrid,Hyderabad,Telangana,India,23-05-2024,,TRUE,29,6,44281,INR,3,8,1012
+1056,Rahul,Goyal,rahul.goyal@example.com,-6082,3,IT Manager,Full-time,Remote,Bengaluru,Karnataka,India,05-02-2021,,TRUE,21,0,157543,INR,2,5,1004
+1057,Komal,Agarwal,komal.agarwal@example.com,-9888,7,Supply Chain Manager,Full-time,Hybrid,Hyderabad,Telangana,India,17-01-2019,,TRUE,28,8,167295,INR,4,12,1028
+1058,Harsh,Nair,harsh.nair@example.com,-5130,6,Analytics Engineer,Full-time,Hybrid,Pune,Maharashtra,India,16-09-2021,,TRUE,27,3,154811,INR,2,5,1037
+1059,Parth,Rastogi,parth.rastogi@example.com,-5852,6,Head of Analytics,Full-time,Hybrid,Pune,Maharashtra,India,24-02-2020,,TRUE,27,6,214397,INR,5,18,1047
+1060,Riya,Sharma,riya.sharma@example.com,-2141,6,Data Scientist,Contract,Hybrid,Pune,Maharashtra,India,03-06-2019,,TRUE,28,4,199896,INR,3,8,1059
+1061,Uday,Trivedi,uday.trivedi@example.com,-10386,4,Performance Marketer,Full-time,On-site,Ahmedabad,Gujarat,India,26-01-2020,,TRUE,22,0,81364,INR,4,12,1069
+1062,Simran,Kapoor,simran.kapoor@example.com,-6514,7,Logistics Coordinator,Full-time,On-site,Hyderabad,Telangana,India,29-05-2021,18-12-2022,FALSE,31,7,59244,INR,3,8,1071
+1063,Ankit,Agarwal,ankit.agarwal@example.com,-5885,4,Brand Head,Intern,Hybrid,Mumbai,Maharashtra,India,07-08-2024,,TRUE,34,12,197098,INR,4,12,
+1064,Rahul,Jain,rahul.jain@example.com,-10080,1,HR Generalist,Contract,On-site,Jaipur,Rajasthan,India,09-09-2020,,TRUE,32,11,41313,INR,3,8,1033
+1065,Suresh,Bansal,suresh.bansal@example.com,-6010,6,Senior Data Analyst,Full-time,Hybrid,Pune,Maharashtra,India,03-02-2023,29-11-2023,FALSE,26,4,118295,INR,3,8,1058
+1066,Isha,Shetty,isha.shetty@example.com,-7341,2,Senior Analyst,Full-time,On-site,Delhi,Delhi,India,02-09-2018,,TRUE,28,8,92361,INR,3,8,1016
+1067,Isha,Bhatia,isha.bhatia@example.com,-3425,5,Regional Sales Manager,Full-time,On-site,Gurugram,Haryana,India,29-11-2022,09-03-2023,FALSE,36,13,120355,INR,5,18,1024
+1068,Siddharth,Desai,siddharth.desai@example.com,-9691,1,HR Generalist,Full-time,On-site,Jaipur,Rajasthan,India,18-06-2024,08-09-2025,FALSE,33,11,35823,INR,5,18,1098
+1069,Komal,Verma,komal.verma@example.com,-10592,4,Performance Marketer,Full-time,Hybrid,Mumbai,Maharashtra,India,31-07-2022,,TRUE,32,10,97678,INR,3,8,1063
+1070,Shweta,Shetty,shweta.shetty@example.com,-11141,7,Supply Chain Manager,Full-time,Remote,Hyderabad,Telangana,India,31-05-2018,,TRUE,30,6,172638,INR,4,12,1071
+1071,Amit,Jain,amit.jain@example.com,-9788,7,Head of Operations,Full-time,On-site,Hyderabad,Telangana,India,08-03-2023,,TRUE,28,4,190975,INR,3,8,1028
+1072,Kavita,Chopra,kavita.chopra@example.com,-6356,5,Regional Sales Manager,Full-time,Hybrid,Gurugram,Haryana,India,25-03-2021,,TRUE,26,5,130251,INR,5,18,1076
+1073,Riya,Chaudhary,riya.chaudhary@example.com,-6783,1,HR Manager,Full-time,On-site,Jaipur,Rajasthan,India,30-07-2022,18-05-2023,FALSE,22,0,67312,INR,2,5,1099
+1074,Uday,Trivedi,uday.trivedi@example.com,-9312,2,CFO Office Lead,Contract,Hybrid,Delhi,Delhi,India,07-03-2024,,TRUE,33,10,209407,INR,4,12,
+1075,Yash,Chopra,yash.chopra@example.com,-10422,7,Operations Manager,Full-time,On-site,Hyderabad,Telangana,India,04-03-2021,,TRUE,31,11,127892,INR,5,18,1094
+1076,Aarohi,Rastogi,aarohi.rastogi@example.com,-8774,5,National Sales Manager,Full-time,On-site,Noida,Uttar Pradesh,India,09-02-2023,,TRUE,24,1,196540,INR,1,0,1052
+1077,Ankit,Patel,ankit.patel@example.com,-10545,6,Data Analyst,Intern,On-site,Pune,Maharashtra,India,22-07-2023,,TRUE,30,9,62763,INR,5,18,1059
+1078,Amit,Pillai,amit.pillai@example.com,-9089,2,Finance Manager,Full-time,On-site,Delhi,Delhi,India,05-05-2025,,TRUE,30,7,113456,INR,3,8,1016
+1079,Sakshi,Saxena,sakshi.saxena@example.com,-3742,6,Senior Data Analyst,Full-time,Remote,Pune,Maharashtra,India,06-04-2022,,TRUE,25,1,94544,INR,3,8,1009
+1080,Gaurav,Joshi,gaurav.joshi@example.com,-7297,6,Data Scientist,Full-time,On-site,Pune,Maharashtra,India,13-11-2022,,TRUE,28,8,162049,INR,4,12,1037
+1081,Rohit,Goyal,rohit.goyal@example.com,-5324,7,Operations Manager,Full-time,On-site,Ahmedabad,Gujarat,India,16-04-2021,,TRUE,37,17,109198,INR,2,5,1075
+1082,Naina,Saxena,naina.saxena@example.com,-6436,4,Marketing Associate,Full-time,Hybrid,Mumbai,Maharashtra,India,30-08-2025,,TRUE,34,10,36949,INR,2,5,1025
+1083,Ishita,Kulkarni,ishita.kulkarni@example.com,-7770,3,DevOps Engineer,Full-time,Hybrid,Noida,Uttar Pradesh,India,10-10-2019,24-10-2023,FALSE,38,14,118920,INR,5,18,1004
+1084,Uday,Singh,uday.singh@example.com,-2228,2,Financial Analyst,Full-time,Hybrid,Delhi,Delhi,India,31-05-2024,,TRUE,23,0,67711,INR,1,0,1112
+1085,Sneha,Suresh,sneha.suresh@example.com,-6583,5,Regional Sales Manager,Full-time,On-site,Gurugram,Haryana,India,18-03-2021,,TRUE,29,6,95569,INR,2,5,1072
+1086,Raj,Khan,raj.khan@example.com,-7484,1,HR Executive,Full-time,Hybrid,Jaipur,Rajasthan,India,19-06-2021,,TRUE,29,9,36637,INR,3,8,1101
+1087,Pooja,Malhotra,pooja.malhotra@example.com,-7416,2,CFO Office Lead,Full-time,Hybrid,Delhi,Delhi,India,07-02-2022,,TRUE,27,3,193434,INR,2,5,1117
+1088,Sakshi,Banerjee,sakshi.banerjee@example.com,-8550,1,HR Executive,Contract,On-site,Indore,Madhya Pradesh,India,05-11-2018,,TRUE,26,3,31376,INR,3,8,1002
+1089,Neha,Agarwal,neha.agarwal@example.com,-7045,3,Software Engineer,Full-time,Remote,Bengaluru,Karnataka,India,22-07-2024,,TRUE,34,12,83321,INR,2,5,1004
+1090,Suresh,Khan,suresh.khan@example.com,-4019,1,HR Executive,Full-time,Remote,Indore,Madhya Pradesh,India,22-05-2021,,TRUE,26,3,25638,INR,3,8,1115
+1091,Raj,Patel,raj.patel@example.com,-4047,4,Marketing Manager,Full-time,On-site,Mumbai,Maharashtra,India,09-07-2025,,TRUE,32,10,149577,INR,3,8,1029
+1092,Naina,Nair,naina.nair@example.com,-8257,3,Software Engineer,Full-time,Hybrid,Kolkata,West Bengal,India,26-02-2022,,TRUE,31,11,100441,INR,4,12,1056
+1093,Manish,Singh,manish.singh@example.com,-3926,7,Logistics Coordinator,Full-time,On-site,Hyderabad,Telangana,India,11-01-2019,,TRUE,26,3,36062,INR,3,8,1030
+1094,Kavita,Verma,kavita.verma@example.com,-4452,7,Supply Chain Manager,Full-time,Hybrid,Hyderabad,Telangana,India,28-04-2020,,TRUE,28,4,128258,INR,4,12,1012
+1095,Parth,Chopra,parth.chopra@example.com,-7568,7,Operations Manager,Full-time,On-site,Kolkata,West Bengal,India,27-03-2019,,TRUE,25,4,102199,INR,3,8,1028
+1096,Sneha,Kapoor,sneha.kapoor@example.com,-9414,6,Analytics Engineer,Contract,Hybrid,Pune,Maharashtra,India,25-11-2023,29-03-2024,FALSE,23,0,127260,INR,2,5,1007
+1097,Naina,Mehta,naina.mehta@example.com,-4445,6,Analytics Engineer,Full-time,Hybrid,Pune,Maharashtra,India,20-05-2021,,TRUE,25,1,116767,INR,2,5,1110
+1098,Aditya,Verma,aditya.verma@example.com,-7252,1,HR Generalist,Full-time,Remote,Jaipur,Rajasthan,India,27-10-2024,,TRUE,27,5,39324,INR,5,18,1064
+1099,Abhishek,Nair,abhishek.nair@example.com,-8788,1,Head of HR,Full-time,Remote,Jaipur,Rajasthan,India,05-05-2025,,TRUE,34,14,118837,INR,3,8,
+1100,Ishita,Patel,ishita.patel@example.com,-3398,4,Performance Marketer,Full-time,Hybrid,Mumbai,Maharashtra,India,04-07-2021,,TRUE,32,12,82700,INR,3,8,1048
+1101,Anita,Nair,anita.nair@example.com,-9116,1,HR Generalist,Full-time,On-site,Jaipur,Rajasthan,India,17-06-2019,,TRUE,28,6,39208,INR,5,18,1050
+1102,Sneha,Bansal,sneha.bansal@example.com,-8320,5,Account Manager,Full-time,On-site,Kolkata,West Bengal,India,11-12-2021,14-12-2024,FALSE,30,8,65128,INR,3,8,1085
+1103,Siddharth,Joshi,siddharth.joshi@example.com,-4687,7,Logistics Coordinator,Full-time,Hybrid,Hyderabad,Telangana,India,16-04-2024,,TRUE,35,12,40287,INR,3,8,1120
+1104,Riya,Suresh,riya.suresh@example.com,-3181,3,Senior Software Engineer,Full-time,Hybrid,Indore,Madhya Pradesh,India,26-01-2018,,TRUE,33,11,138253,INR,3,8,1004
+1105,Kavita,Patel,kavita.patel@example.com,-2855,4,Brand Head,Full-time,Remote,Indore,Madhya Pradesh,India,28-10-2021,,TRUE,30,7,196298,INR,4,12,1063
+1106,Sneha,Jain,sneha.jain@example.com,-10587,1,HR Executive,Full-time,Hybrid,Noida,Uttar Pradesh,India,20-12-2022,,TRUE,29,7,34064,INR,2,5,1050
+1107,Neha,Bansal,neha.bansal@example.com,-1959,6,Senior Data Analyst,Full-time,Hybrid,Pune,Maharashtra,India,17-06-2023,,TRUE,28,4,90077,INR,3,8,1007
+1108,Kavita,Rastogi,kavita.rastogi@example.com,-11045,2,Senior Analyst,Full-time,Hybrid,Delhi,Delhi,India,31-03-2021,,TRUE,34,12,81954,INR,3,8,1016
+1109,Yash,Chaudhary,yash.chaudhary@example.com,-7124,7,Operations Manager,Full-time,On-site,Hyderabad,Telangana,India,23-10-2018,,TRUE,31,9,101246,INR,5,18,1057
+1110,Siddharth,Patel,siddharth.patel@example.com,-4141,6,Analytics Engineer,Full-time,Remote,Pune,Maharashtra,India,31-03-2021,11-07-2021,FALSE,33,10,134519,INR,3,8,1059
+1111,Mahima,Patel,mahima.patel@example.com,-10202,5,National Sales Manager,Full-time,Hybrid,Gurugram,Haryana,India,10-06-2022,,TRUE,24,4,150922,INR,1,0,1052
+1112,Nidhi,Bhatia,nidhi.bhatia@example.com,-6082,2,Senior Analyst,Full-time,Hybrid,Indore,Madhya Pradesh,India,09-12-2021,,TRUE,25,3,74612,INR,2,5,1087
+1113,Simran,Rastogi,simran.rastogi@example.com,-7762,7,Supply Chain Manager,Full-time,Hybrid,Hyderabad,Telangana,India,27-12-2019,,TRUE,24,4,126359,INR,4,12,1028
+1114,Nikhil,Kapoor,nikhil.kapoor@example.com,-10571,4,Marketing Associate,Full-time,Hybrid,Noida,Uttar Pradesh,India,05-04-2023,,TRUE,44,24,32674,INR,3,8,1091
+1115,Aditya,Mehta,aditya.mehta@example.com,-3227,1,HR Executive,Full-time,Hybrid,Jaipur,Rajasthan,India,21-03-2021,20-11-2021,FALSE,33,11,36111,INR,3,8,1013
+1116,Siddharth,Khan,siddharth.khan@example.com,-4036,2,Senior Analyst,Full-time,On-site,Delhi,Delhi,India,14-10-2024,,TRUE,29,7,87368,INR,2,5,1078
+1117,Pooja,Mehta,pooja.mehta@example.com,-8956,2,CFO Office Lead,Full-time,Hybrid,Delhi,Delhi,India,05-12-2022,,TRUE,26,3,198727,INR,2,5,1074
+1118,Abhishek,Mehta,abhishek.mehta@example.com,-5157,7,Supply Chain Manager,Full-time,On-site,Hyderabad,Telangana,India,27-09-2018,,TRUE,29,7,167882,INR,4,12,1028
+1119,Mahima,Jain,mahima.jain@example.com,-4051,2,Financial Analyst,Full-time,On-site,Delhi,Delhi,India,24-06-2021,,TRUE,32,10,64256,INR,4,12,1019
+1120,Ankit,Khan,ankit.khan@example.com,-2345,7,Logistics Coordinator,Full-time,On-site,Hyderabad,Telangana,India,08-06-2019,,TRUE,23,1,41456,INR,3,8,1071
