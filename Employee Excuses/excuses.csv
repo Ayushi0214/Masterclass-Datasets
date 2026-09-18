@@ -1,0 +1,197 @@
+excuse_id,employee_id,employee_name,excuse_date,excuse_type,excuse,category
+1,19,Nikhil Desai,2025-01-01,Late,Cab driver cancelled three times,Transport
+2,18,Riya Banerjee,2025-01-03,Leave,Fever,Health
+3,26,Nisha Shetty,2025-01-07,Leave,Friend was admitted in hospital,Emergency
+4,11,Rahul Mishra,2025-01-08,Leave,Severe headache,Health
+5,3,Rohit Gupta,2025-01-13,Leave,Friend was admitted in hospital,Emergency
+6,28,Shreya Ghosh,2025-01-16,Leave,Water leakage in the flat,Household
+7,19,Nikhil Desai,2025-01-17,Late,Child had fever,Emergency
+8,8,Neha Joshi,2025-01-22,Late,Traffic diverted due to metro work,Transport
+9,14,Meera Pillai,2025-01-22,Late,Child had fever,Emergency
+10,3,Rohit Gupta,2025-01-24,Leave,Urgent bank work for KYC,Household
+11,3,Rohit Gupta,2025-01-27,Leave,Urgent bank work for KYC,Household
+12,26,Nisha Shetty,2025-01-27,Late,Stomach pain,Health
+13,28,Shreya Ghosh,2025-01-30,Missed Meeting,Mic was not working,Technology
+14,29,Amit Tiwari,2025-01-31,Leave,Doctor advised bed rest,Health
+15,19,Nikhil Desai,2025-02-03,Late,Traffic jam due to VIP convoy,Transport
+16,3,Rohit Gupta,2025-02-10,Late,Cab driver cancelled three times,Transport
+17,6,Ananya Reddy,2025-02-10,Late,Tyre got punctured,Transport
+18,9,Arjun Nair,2025-02-10,Leave,Doctor appointment,Health
+19,12,Isha Kapoor,2025-02-10,Missed Meeting,Laptop hanged,Technology
+20,3,Rohit Gupta,2025-02-14,Missed Meeting,Laptop hanged,Technology
+21,7,Karan Malhotra,2025-02-17,Missed Meeting,Mic was not working,Technology
+22,11,Rahul Mishra,2025-02-17,Missed Meeting,Mic was not working,Technology
+23,3,Rohit Gupta,2025-02-21,Leave,Wifi technician was coming,Household
+24,5,Vikram Singh,2025-02-21,Late,Stomach pain,Health
+25,1,Aarav Sharma,2025-02-24,Leave,Severe headache,Health
+26,19,Nikhil Desai,2025-02-24,Leave,Stomach pain,Health
+27,21,Harsh Agarwal,2025-02-24,Leave,Stomach pain,Health
+28,28,Shreya Ghosh,2025-02-24,Leave,Viral fever,Health
+29,10,Pooja Patel,2025-02-26,Late,Stuck in traffic,Transport
+30,19,Nikhil Desai,2025-02-27,Leave,Back pain,Health
+31,5,Vikram Singh,2025-02-28,Leave,Viral fever,Health
+32,24,Simran Kaur,2025-02-28,Leave,Urgent personal work,Emergency
+33,12,Isha Kapoor,2025-03-03,Leave,Viral fever,Health
+34,18,Riya Banerjee,2025-03-03,Late,Train was running 4 hours late,Transport
+35,3,Rohit Gupta,2025-03-06,Late,Had to take mother to the doctor,Emergency
+36,18,Riya Banerjee,2025-03-07,Missed Meeting,Power cut at home,Technology
+37,11,Rahul Mishra,2025-03-10,Missed Meeting,Home wifi was not working,Technology
+38,19,Nikhil Desai,2025-03-10,Leave,Viral fever,Health
+39,8,Neha Joshi,2025-03-13,Leave,Relative was admitted in hospital,Emergency
+40,3,Rohit Gupta,2025-03-14,Late,School bus did not come,Family
+41,11,Rahul Mishra,2025-03-17,Leave,Viral fever,Health
+42,19,Nikhil Desai,2025-03-17,Leave,Stomach pain,Health
+43,2,Priya Verma,2025-03-19,Leave,Severe headache,Health
+44,27,Kunal Saxena,2025-03-19,Leave,Relatives arrived unannounced,Family
+45,29,Amit Tiwari,2025-03-20,Leave,Food poisoning,Health
+46,19,Nikhil Desai,2025-03-21,Leave,Relatives arrived unannounced,Family
+47,2,Priya Verma,2025-03-26,Leave,Food poisoning,Health
+48,11,Rahul Mishra,2025-03-26,Late,Parent teacher meeting,Family
+49,29,Amit Tiwari,2025-03-26,Leave,Wifi technician was coming,Household
+50,25,Varun Bhatt,2025-03-27,Missed Meeting,Gas cylinder delivery was coming,Household
+51,11,Rahul Mishra,2025-03-28,Leave,Food poisoning,Health
+52,3,Rohit Gupta,2025-03-31,Late,Train was running 4 hours late,Transport
+53,19,Nikhil Desai,2025-03-31,Late,Stomach pain,Health
+54,26,Nisha Shetty,2025-03-31,Leave,Viral fever,Health
+55,2,Priya Verma,2025-04-01,Leave,Back pain,Health
+56,18,Riya Banerjee,2025-04-03,Leave,Eye infection,Health
+57,2,Priya Verma,2025-04-11,Leave,Back pain,Health
+58,3,Rohit Gupta,2025-04-15,Late,Metro had a technical fault,Transport
+59,3,Rohit Gupta,2025-04-16,Missed Meeting,Mic was not working,Technology
+60,19,Nikhil Desai,2025-04-18,Leave,Viral fever,Health
+61,11,Rahul Mishra,2025-04-21,Leave,Heatwave,Weather
+62,3,Rohit Gupta,2025-04-23,Leave,Doctor advised bed rest,Health
+63,28,Shreya Ghosh,2025-04-23,Missed Meeting,Mic was not working,Technology
+64,9,Arjun Nair,2025-04-24,Leave,Back pain,Health
+65,28,Shreya Ghosh,2025-04-24,Late,Maid did not come,Household
+66,18,Riya Banerjee,2025-04-25,Leave,Food poisoning,Health
+67,7,Karan Malhotra,2025-04-28,Leave,Food poisoning,Health
+68,12,Isha Kapoor,2025-04-28,Missed Meeting,Did not get the meeting invite,Technology
+69,14,Meera Pillai,2025-04-29,Leave,Urgent personal work,Emergency
+70,9,Arjun Nair,2025-04-30,Missed Meeting,Laptop hanged,Technology
+71,2,Priya Verma,2025-05-01,Leave,Urgent personal work,Emergency
+72,17,Manish Yadav,2025-05-02,Leave,Waiting for the plumber,Household
+73,19,Nikhil Desai,2025-05-02,Leave,Severe headache,Health
+74,24,Simran Kaur,2025-05-02,Leave,Fever,Health
+75,1,Aarav Sharma,2025-05-09,Leave,Child had fever,Emergency
+76,2,Priya Verma,2025-05-15,Leave,Family emergency,Emergency
+77,27,Kunal Saxena,2025-05-16,Leave,Food poisoning,Health
+78,18,Riya Banerjee,2025-05-19,Late,Train was running 4 hours late,Transport
+79,11,Rahul Mishra,2025-05-23,Late,Tyre got punctured,Transport
+80,19,Nikhil Desai,2025-05-23,Leave,Severe headache,Health
+81,29,Amit Tiwari,2025-05-23,Late,Maid did not come,Household
+82,6,Ananya Reddy,2025-05-26,Missed Meeting,Was stuck in another meeting,Technology
+83,3,Rohit Gupta,2025-05-29,Late,Child had fever,Emergency
+84,9,Arjun Nair,2025-06-02,Missed Meeting,Laptop battery died,Technology
+85,26,Nisha Shetty,2025-06-02,Late,Traffic jam due to VIP convoy,Transport
+86,3,Rohit Gupta,2025-06-04,Leave,Fever,Health
+87,5,Vikram Singh,2025-06-04,Leave,Stomach pain,Health
+88,10,Pooja Patel,2025-06-04,Leave,Severe headache,Health
+89,19,Nikhil Desai,2025-06-04,Leave,High fever since last night,Health
+90,23,Yash Thakur,2025-06-04,Leave,Viral fever,Health
+91,24,Simran Kaur,2025-06-04,Leave,Severe headache,Health
+92,25,Varun Bhatt,2025-06-04,Leave,Viral fever,Health
+93,26,Nisha Shetty,2025-06-11,Late,Heavy traffic due to rain,Transport
+94,19,Nikhil Desai,2025-06-17,Late,Train was running 4 hours late,Transport
+95,11,Rahul Mishra,2025-06-18,Late,Parent teacher meeting,Family
+96,18,Riya Banerjee,2025-06-19,Leave,Family emergency,Emergency
+97,3,Rohit Gupta,2025-06-23,Missed Meeting,Office wifi kept disconnecting,Technology
+98,6,Ananya Reddy,2025-06-24,Late,Traffic jam due to VIP convoy,Transport
+99,19,Nikhil Desai,2025-06-25,Leave,Viral fever,Health
+100,3,Rohit Gupta,2025-06-27,Leave,Grandmother was admitted in hospital,Emergency
+101,21,Harsh Agarwal,2025-06-27,Late,Severe headache,Health
+102,11,Rahul Mishra,2025-06-30,Missed Meeting,Power cut at home,Technology
+103,26,Nisha Shetty,2025-06-30,Leave,Viral fever,Health
+104,3,Rohit Gupta,2025-07-01,Late,Urgent family matter,Emergency
+105,2,Priya Verma,2025-07-02,Late,Traffic jam due to VIP convoy,Transport
+106,17,Manish Yadav,2025-07-04,Late,Traffic diverted due to metro work,Transport
+107,19,Nikhil Desai,2025-07-04,Leave,Fever,Health
+108,27,Kunal Saxena,2025-07-04,Late,Stomach pain,Health
+109,3,Rohit Gupta,2025-07-07,Leave,Food poisoning,Health
+110,27,Kunal Saxena,2025-07-07,Leave,Viral fever,Health
+111,11,Rahul Mishra,2025-07-08,Missed Meeting,Laptop battery died,Technology
+112,3,Rohit Gupta,2025-07-09,Leave,Grandmother was admitted in hospital,Emergency
+113,3,Rohit Gupta,2025-07-14,Leave,Grandmother was admitted in hospital,Emergency
+114,9,Arjun Nair,2025-07-14,Leave,Stomach pain,Health
+115,19,Nikhil Desai,2025-07-14,Leave,High fever since last night,Health
+116,19,Nikhil Desai,2025-07-14,Leave,High fever since last night,Health
+117,29,Amit Tiwari,2025-07-14,Late,Metro had a technical fault,Transport
+118,12,Isha Kapoor,2025-07-16,Leave,Had to take father to the hospital,Emergency
+119,12,Isha Kapoor,2025-07-21,Missed Meeting,Laptop hanged,Technology
+120,27,Kunal Saxena,2025-07-22,Missed Meeting,Home wifi was not working,Technology
+121,11,Rahul Mishra,2025-07-25,Late,Gas cylinder delivery was coming,Household
+122,5,Vikram Singh,2025-07-30,Late,Heavy rain,Weather
+123,19,Nikhil Desai,2025-07-31,Missed Meeting,Wifi router stopped working,Technology
+124,9,Arjun Nair,2025-08-04,Leave,Back pain,Health
+125,6,Ananya Reddy,2025-08-07,Leave,High fever since last night,Health
+126,26,Nisha Shetty,2025-08-08,Leave,Relative was admitted in hospital,Emergency
+127,19,Nikhil Desai,2025-08-11,Leave,Puja at home,Family
+128,15,Siddharth Jain,2025-08-15,Leave,Viral fever,Health
+129,27,Kunal Saxena,2025-08-22,Late,Doctor appointment,Health
+130,19,Nikhil Desai,2025-08-25,Late,Severe headache,Health
+131,26,Nisha Shetty,2025-08-25,Leave,Viral fever,Health
+132,12,Isha Kapoor,2025-08-26,Late,Relatives arrived unannounced,Family
+133,27,Kunal Saxena,2025-08-27,Leave,Had to take father to the hospital,Emergency
+134,19,Nikhil Desai,2025-08-28,Late,Severe headache,Health
+135,26,Nisha Shetty,2025-08-28,Late,Tyre got punctured,Transport
+136,3,Rohit Gupta,2025-09-01,Late,Heavy rain,Weather
+137,19,Nikhil Desai,2025-09-01,Late,Metro had a technical fault,Transport
+138,9,Arjun Nair,2025-09-08,Leave,Viral fever,Health
+139,11,Rahul Mishra,2025-09-08,Leave,Parent teacher meeting,Family
+140,11,Rahul Mishra,2025-09-10,Leave,Wifi technician was coming,Household
+141,11,Rahul Mishra,2025-09-15,Missed Meeting,VPN was not connecting,Technology
+142,12,Isha Kapoor,2025-09-15,Missed Meeting,Home wifi was not working,Technology
+143,18,Riya Banerjee,2025-09-15,Leave,Fever,Health
+144,19,Nikhil Desai,2025-09-15,Late,Urgent personal work,Emergency
+145,3,Rohit Gupta,2025-09-18,Late,No water in the society since morning,Household
+146,12,Isha Kapoor,2025-09-18,Missed Meeting,Power cut at home,Technology
+147,3,Rohit Gupta,2025-09-23,Late,Stomach pain,Health
+148,6,Ananya Reddy,2025-09-26,Leave,Doctor advised bed rest,Health
+149,21,Harsh Agarwal,2025-09-26,Missed Meeting,Home wifi was not working,Technology
+150,19,Nikhil Desai,2025-09-29,Leave,Food poisoning,Health
+151,29,Amit Tiwari,2025-09-29,Missed Meeting,Power cut at home,Technology
+152,3,Rohit Gupta,2025-09-30,Leave,Heavy rain,Weather
+153,26,Nisha Shetty,2025-10-02,Late,Severe headache,Health
+154,3,Rohit Gupta,2025-10-03,Leave,Urgent family matter,Emergency
+155,10,Pooja Patel,2025-10-03,Leave,Doctor advised bed rest,Health
+156,18,Riya Banerjee,2025-10-06,Late,Child had fever,Emergency
+157,11,Rahul Mishra,2025-10-09,Late,Traffic jam due to VIP convoy,Transport
+158,19,Nikhil Desai,2025-10-09,Late,Maid did not come,Household
+159,1,Aarav Sharma,2025-10-10,Leave,Doctor appointment,Health
+160,24,Simran Kaur,2025-10-10,Late,No water in the society since morning,Household
+161,23,Yash Thakur,2025-10-13,Late,Traffic jam due to VIP convoy,Transport
+162,5,Vikram Singh,2025-10-16,Leave,High fever since last night,Health
+163,8,Neha Joshi,2025-10-16,Leave,Back pain,Health
+164,9,Arjun Nair,2025-10-17,Missed Meeting,Home wifi was not working,Technology
+165,11,Rahul Mishra,2025-10-20,Leave,High fever since last night,Health
+166,22,Divya Chauhan,2025-10-20,Leave,Relative was admitted in hospital,Emergency
+167,18,Riya Banerjee,2025-10-22,Leave,Doctor appointment,Health
+168,3,Rohit Gupta,2025-10-24,Leave,Food poisoning,Health
+169,19,Nikhil Desai,2025-10-24,Leave,Viral fever,Health
+170,16,Kavya Menon,2025-10-28,Leave,Friend was admitted in hospital,Emergency
+171,3,Rohit Gupta,2025-10-29,Missed Meeting,Laptop hanged,Technology
+172,3,Rohit Gupta,2025-10-30,Leave,Grandmother was admitted in hospital,Emergency
+173,26,Nisha Shetty,2025-11-05,Missed Meeting,Home wifi was not working,Technology
+174,18,Riya Banerjee,2025-11-07,Missed Meeting,Mic was not working,Technology
+175,11,Rahul Mishra,2025-11-12,Leave,Back pain,Health
+176,21,Harsh Agarwal,2025-11-14,Leave,Stomach pain,Health
+177,29,Amit Tiwari,2025-11-18,Leave,Urgent personal work,Emergency
+178,27,Kunal Saxena,2025-11-21,Late,Severe headache,Health
+179,3,Rohit Gupta,2025-11-25,Late,Waiting for the plumber,Household
+180,2,Priya Verma,2025-12-01,Leave,High fever since last night,Health
+181,7,Karan Malhotra,2025-12-01,Late,Severe headache,Health
+182,11,Rahul Mishra,2025-12-05,Late,Had to take mother to the doctor,Emergency
+183,18,Riya Banerjee,2025-12-05,Leave,Stomach pain,Health
+184,19,Nikhil Desai,2025-12-08,Late,Stomach pain,Health
+185,18,Riya Banerjee,2025-12-09,Late,Traffic jam due to VIP convoy,Transport
+186,3,Rohit Gupta,2025-12-11,Leave,Grandmother was admitted in hospital,Emergency
+187,8,Neha Joshi,2025-12-15,Leave,High fever since last night,Health
+188,11,Rahul Mishra,2025-12-17,Late,Too much fog,Weather
+189,18,Riya Banerjee,2025-12-18,Late,Metro had a technical fault,Transport
+190,23,Yash Thakur,2025-12-18,Late,Stuck in traffic,Transport
+191,18,Riya Banerjee,2025-12-22,Leave,Viral fever,Health
+192,9,Arjun Nair,2025-12-29,Leave,Fever,Health
+193,11,Rahul Mishra,2025-12-29,Leave,Friend was admitted in hospital,Emergency
+194,16,Kavya Menon,2025-12-29,Leave,Friend was admitted in hospital,Emergency
+195,5,Vikram Singh,2025-12-31,Leave,Had to rush to native place,Emergency
+196,17,Manish Yadav,2025-12-31,Missed Meeting,Power cut at home,Technology
